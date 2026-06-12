@@ -1,5 +1,5 @@
-# Binkit-Sales_Performance_dashboard
-# Blinkit Sales & Delivery Performance Analytics (Power BI)
+
+
 
 ## 🎯 Project Business Objective
 The goal of this analysis was to construct an interactive, multi-page business intelligence framework tracking **$32.19M in total revenue** and **$4.97M in core retail sales** for Blinkit (formerly Grofers). The dashboard provides stakeholders with immediate granularity into quick-commerce operational execution, consumer purchase behaviors, and delivery lifecycle constraints.
